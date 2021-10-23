@@ -11,7 +11,7 @@ No sé cuánto les servirá, pero estaba aburrido y quise hacer esto.
 pip install pyperclip
 ```
 
-### Error al usar el módulo en Linux
+### Solución al error del módulo pyperclip en Linux
 
 #### Distribuciones basadas en Debian
 
