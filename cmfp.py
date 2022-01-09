@@ -67,7 +67,7 @@ if __name__ == "__main__":
 	
 	clipboard.copy(convertedPasswd)
 	
-	print("[+] Exported password \n[*] You have 5 seconds to use it.")
+	print(f"[+] Exported password \n[*] You have {args.timeout} seconds to use it.")
 	
 	timeBeforeClearingClipboard(args.timeout)
 	
